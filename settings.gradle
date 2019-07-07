@@ -1,0 +1,3 @@
+rootProject.name = 'kalendar-bot'
+
+include 'dto', 'backend', 'bot'
