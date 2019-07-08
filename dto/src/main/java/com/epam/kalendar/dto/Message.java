@@ -1,7 +1,5 @@
 package com.epam.kalendar.dto;
 
-import java.util.Date;
-
 public class Message {
 
   private String timestamp;

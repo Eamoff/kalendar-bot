@@ -26,7 +26,7 @@ fun main(args: Array<String>) {
 
 
     val bot = bot {
-        token = "721157321:AAGgfr7GNDTjIwfsUY1LNZGtPTgAGEg9pYk"
+        token = "YOUR_TOKEN_HERE"
         proxy = botProxy
         timeout = 5
         dispatch {
