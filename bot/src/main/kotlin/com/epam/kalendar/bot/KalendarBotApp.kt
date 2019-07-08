@@ -28,7 +28,7 @@ fun main(args: Array<String>) {
     val bot = bot {
         token = "YOUR_TOKEN_HERE"
         proxy = botProxy
-        timeout = 5
+        timeout = 10
         dispatch {
             text { bot, update ->
                 val from = update.message?.from
